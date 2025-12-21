@@ -37,6 +37,6 @@ I specialize in leveraging data to solve real-world problems. My approach combin
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-* **Email:** [yourname@email.com]
+* **LinkedIn:** [linkedin.com/in/kathleen-hill322](https://linkedin.com/in/kathleen-hill322)
+* **Portfolio:** [khilldata.com](https://www.khilldata.com)
+* **Email:** [kathleen.hill322@outlook.com]
