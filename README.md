@@ -9,22 +9,22 @@ I specialize in leveraging data to solve real-world problems. My approach combin
 ### Tech Stack & Tools
 
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn, PyTorch/TensorFlow), SQL, R
-* **Data Engineering:** Spark, Airflow, ETL Pipelines
+* **Data Engineering:** ETL Pipelines
 * **Visualization:** Tableau, PowerBI, Plotly, Seaborn
-* **Deployment:** Docker, AWS/GCP, Flask/FastAPI, Streamlit
+* **Deployment:** Docker, AWS/GCP, Flask, Streamlit
 
 ---
 
 ### Featured Projects
 
-#### [Project Name 1](link to repo)
-* **The Goal:** [e.g., Predict customer churn for a subscription service.]
-* **The Tech:** XGBoost, SHAP for interpretability, SQL.
-* **The Result:** [e.g., Achieved an 89% F1-score and identified top 3 churn drivers.]
+#### [Cyber Risk Dashboard](https://github.com/kd365/cyber-risk-dashboard/tree/main)
+* **The Goal:** Provide an interface through which a user can scrape SEC Filings and Earnings Transcripts, evaluate for performance and sentiment, track and predict stock performance, and evaluate company growth metrics, and incorporation of a conversational assistant.
+* **The Tech:** Amazon Comprehend, Amazon Lex V2, RDS PostgreSQL, EC2 + Gunicorn (Flask API), S3 + CloudFront (React), Lambda, VPC
+* **The Result:** Successful deployment of comprehensive website. 
 
-#### [Project Name 2](link to repo)
-* **The Goal:** [e.g., Automated sentiment analysis for 1M+ product reviews.]
-* **The Tech:** BERT, HuggingFace, FastAPI.
+#### [TBD](link to repo)
+* **The Goal:** TBD
+* **The Tech:** TBD
 * **The Result:** [e.g., Reduced manual review time by 70%.]
 
 ---
