@@ -22,10 +22,6 @@ I specialize in leveraging data to solve real-world problems. My approach combin
 * **The Tech:** Amazon Comprehend, Amazon Lex V2, RDS PostgreSQL, EC2 + Gunicorn (Flask API), S3 + CloudFront (React), Lambda, VPC
 * **The Result:** Successful deployment of comprehensive website. 
 
-#### [TBD](link to repo)
-* **The Goal:** TBD
-* **The Tech:** TBD
-* **The Result:** [e.g., Reduced manual review time by 70%.]
 
 ---
 
