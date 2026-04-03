@@ -17,7 +17,7 @@ I specialize in architecting the "operating systems" of high-stakes organization
 
 ### 🚀 Select Technical Architecture 
 
-#### 1. [ParkScout (Generative AI & RAG Pipeline)](https://github.com/kd365/parkscout) [AWS Builder Page] (https://builder.aws.com/content/39qv94h438Wv65yUvqhGTzKfP1C/aideas-parkscout-what-if-siri-actually-knew-which-playground-has-clean-restrooms) 
+#### 1. [ParkScout (Generative AI & RAG Pipeline)](https://github.com/kd365/parkscout) [AWS Builder Page](https://builder.aws.com/content/39qv94h438Wv65yUvqhGTzKfP1C/aideas-parkscout-what-if-siri-actually-knew-which-playground-has-clean-restrooms) 
 * **Recognition:** *AWS #10KAideas Semi-Finalist (2026)*
 * **The Goal:** Architect an end-to-end Retrieval-Augmented Generation (RAG) pipeline to process unstructured data into a gamified, hyper-personalized recommendation engine for parents.
 * **The Tech:** Python, LangChain, Claude LLM, ChromaDB, FastAPI, SQLite, SwiftUI.
